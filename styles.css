@@ -1,0 +1,62 @@
+*{
+    margin: 1;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* background-color: aqua; */
+}
+
+.heading{
+    text-align: center;
+}
+
+.container1{
+    display: flex;
+}
+
+.program1{
+    width: 33%;
+    border: 1px solid black;
+    margin: 1%;
+    padding: 1%;
+}
+
+.line{
+    border-top: 3px dotted rgb(7, 7, 7);
+    width: 100%;
+}
+
+.program2{
+    width: 33%;
+    border: 1px solid black;
+    margin: 1%;
+    padding: 1%;
+}
+
+.program3{
+    width: 33%;
+    border: 1px solid black;
+    margin: 1%;
+    padding: 1%;
+}
+
+.question3-btton{
+    width: 35%;
+    height: 10%;
+
+}
+.container2{
+    display: flex;
+}
+
+.program4{
+    width: 33%;
+    border: 1px solid black;
+    margin: 1%;
+    padding: 1%;
+}
+
+.program5{
+    width: 33%;
+    border: 1px solid black;
+    margin: 1%;
+    padding: 1%;
+}
