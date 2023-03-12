@@ -45,7 +45,7 @@ function greeting(){
 
 function multiplication(){
     var value = +prompt("Enter value");
-    var value = 5; 
+//     var value = 5; 
     document.getElementById("multiply1").innerHTML = value * 1;
     document.getElementById("multiply2").innerHTML = value * 2;
     document.getElementById("multiply3").innerHTML = value * 3;
